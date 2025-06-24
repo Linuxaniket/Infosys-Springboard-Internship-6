@@ -1,5 +1,3 @@
-package AssignmentOnConditionalProblem;
-
 import java.util.Scanner;
 
 /*
